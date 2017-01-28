@@ -64,21 +64,21 @@ class CfgSpawnPoints {
 
         class Cop {
             class Kavala {
-                displayName = "Kavala HQ";
+                displayName = "Kavala Police Department";
                 spawnMarker = "cop_spawn_1";
                 icon = "\a3\ui_f\data\map\MapControl\watertower_ca.paa";
                 conditions = "";
             };
 
             class Athira {
-                displayName = "Athira HQ";
+                displayName = "Athira Police Departmen";
                 spawnMarker = "cop_spawn_3";
                 icon = "\a3\ui_f\data\map\MapControl\fuelstation_ca.paa";
                 conditions = "";
             };
 
             class Pyrgos {
-                displayName = "Pyrgos HQ";
+                displayName = "Pyrgos Police Departmen";
                 spawnMarker = "cop_spawn_2";
                 icon = "\a3\ui_f\data\map\GroupIcons\badge_rotate_0_gs.paa";
                 conditions = "";
